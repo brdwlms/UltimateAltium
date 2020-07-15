@@ -1,4 +1,4 @@
 # UltimateAltium
 Learning Altium, yeah
 
-**THIS IS BOLD**
+**This is bold**
