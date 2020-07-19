@@ -1,0 +1,12 @@
+* C:\Users\bradw\Desktop\UltimateAltium\LT_sim\OBATS_Front_End_Signal_Chain\OBATS_Front_End_Signal_Chain.asc
+XU1 N002 N004 5v 0 N003 OP284
+V§tmp235 N001 0 0
+V§5V_P 5v 0 5
+R1 N002 N001 10k
+C1 N002 0 1µ
+R2 N003 N004 6.5k
+R3 0 N004 10k
+.dc tmp235 0.1 2 0.05
+.lib ADI1.lib
+.backanno
+.end
