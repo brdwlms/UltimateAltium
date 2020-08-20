@@ -88,6 +88,147 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\NC Drill\tmp235_Front_End_Siognal_Chain.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for OBATS\NC Drill\tmp235_Front_End_Siognal_Chain.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\tmp235_Front_End_Siognal_Chain.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\NC Drill\tmp235_Front_End_Siognal_Chain.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\tmp235_Front_End_Siognal_Chain.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\tmp235_Front_End_Siognal_Chain.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for OBATS\Gerber\tmp235_Front_End_Siognal_Chain.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\NC Drill\tmp235_Front_End_Siognal_Chain.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for OBATS\NC Drill\tmp235_Front_End_Siognal_Chain.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -207,7 +348,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON WF-3720 Series
+TargetPrinter=NPIDE0CA1 (HP LaserJet MFP M29w)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -338,6 +479,10 @@ OutputName5=Gerber Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
