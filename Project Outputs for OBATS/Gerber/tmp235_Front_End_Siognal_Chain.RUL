@@ -1,4 +1,5 @@
 DRC Rules Export File for PCB: C:\Users\chadl\Desktop\UltimateAltium\tmp235_Front_End_Siognal_Chain.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=24.00
 RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=30.00
 RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00

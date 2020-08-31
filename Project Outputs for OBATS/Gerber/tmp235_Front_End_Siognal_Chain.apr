@@ -38,9 +38,9 @@ D46   ROUNDED            68.000      68.000       0.000 FLASH       0.000
 D47   ROUNDED            37.000      37.000       0.000 FLASH       0.000
 D48   ROUNDED            36.000      36.000       0.000 FLASH       0.000
 D49   ROUNDED            27.685      27.685       0.000 FLASH       0.000
-D50   ROUNDED            14.000      14.000       0.000  LINE       0.000
-D51   ROUNDED            13.000      13.000       0.000  LINE       0.000
-D52   ROUNDED            20.000      20.000       0.000  LINE       0.000
+D50   ROUNDED            20.000      20.000       0.000  LINE       0.000
+D51   ROUNDED            14.000      14.000       0.000  LINE       0.000
+D52   ROUNDED            13.000      13.000       0.000  LINE       0.000
 D53   ROUNDED            40.000      40.000       0.000  LINE       0.000
 D54   ROUNDED            35.000      35.000       0.000  LINE       0.000
 D55   ROUNDED            60.000      60.000       0.000 FLASH       0.000
@@ -53,3 +53,4 @@ D61   ROUNDED            39.000      39.000       0.000 FLASH       0.000
 D62   ROUNDED            27.874      27.874       0.000 FLASH       0.000
 D63   ROUNDED             3.937       3.937       0.000  LINE       0.000
 D64   ROUNDED             1.968       1.968       0.000  LINE       0.000
+D65   ROUNDED            45.000      45.000       0.000  LINE       0.000
