@@ -2,54 +2,19 @@
 FileName = tmp235_Front_End_Siognal_Chain.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Component Center
-      File : tmp235_Front_End_Siognal_Chain.GM24
+Generating : Bottom Layer
+      File : tmp235_Front_End_Siognal_Chain.GBL
 
-    Adding Layer      : Bottom Component Center
+    Adding Layer      : Bottom Layer
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : tmp235_Front_End_Siognal_Chain.GM23
-
-    Adding Layer      : Bottom 3D Body
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : tmp235_Front_End_Siognal_Chain.GM21
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : tmp235_Front_End_Siognal_Chain.GM20
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : tmp235_Front_End_Siognal_Chain.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D63
+    D55
+    D56
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -66,15 +31,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top 3D Body
-      File : tmp235_Front_End_Siognal_Chain.GM13
+Generating : Bottom Overlay
+      File : tmp235_Front_End_Siognal_Chain.GBO
 
-    Adding Layer      : Top 3D Body
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D12
-    D63
 *************************************************************
 
 *************************************************************
@@ -90,13 +53,34 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : tmp235_Front_End_Siognal_Chain.GM1
+Generating : Top Paste
+      File : tmp235_Front_End_Siognal_Chain.GTP
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
@@ -104,30 +88,6 @@ Generating : Keep-Out Layer
       File : tmp235_Front_End_Siognal_Chain.GKO
 
     Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : tmp235_Front_End_Siognal_Chain.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : tmp235_Front_End_Siognal_Chain.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -149,6 +109,33 @@ Used DCodes :
     D47
     D48
     D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : tmp235_Front_End_Siognal_Chain.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : tmp235_Front_End_Siognal_Chain.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
 *************************************************************
 
 *************************************************************
@@ -187,10 +174,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : tmp235_Front_End_Siognal_Chain.GTP
+Generating : Top 3D Body
+      File : tmp235_Front_End_Siognal_Chain.GM13
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D63
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : tmp235_Front_End_Siognal_Chain.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : tmp235_Front_End_Siognal_Chain.GTL
 
     Adding Layer      : Top Layer
 
@@ -215,6 +229,53 @@ Used DCodes :
     D29
     D30
     D31
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : tmp235_Front_End_Siognal_Chain.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : tmp235_Front_End_Siognal_Chain.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : 3V3
+      File : tmp235_Front_End_Siognal_Chain.GP2
+
+    Adding Layer      : 3V3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D59
+    D60
+    D61
+    D62
 *************************************************************
 
 *************************************************************
@@ -263,32 +324,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : tmp235_Front_End_Siognal_Chain.GPB
+Generating : Bottom 3D Body
+      File : tmp235_Front_End_Siognal_Chain.GM23
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom 3D Body
 
 
 Used DCodes :
-    D55
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : tmp235_Front_End_Siognal_Chain.GBL
+Generating : Bottom Component Center
+      File : tmp235_Front_End_Siognal_Chain.GM24
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Component Center
 
 
 Used DCodes :
-    D55
-    D56
-    D57
-    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : tmp235_Front_End_Siognal_Chain.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -301,82 +363,20 @@ Generating : 5V
 
 
 Used DCodes :
-    D50
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : 3V3
-      File : tmp235_Front_End_Siognal_Chain.GP2
-
-    Adding Layer      : 3V3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : tmp235_Front_End_Siognal_Chain.GP1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : tmp235_Front_End_Siognal_Chain.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D50
-    D51
-    D52
     D53
-    D54
-    D55
-    D56
-    D57
-    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : tmp235_Front_End_Siognal_Chain.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
